@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /send.php
+Disallow: /secretkey.php
